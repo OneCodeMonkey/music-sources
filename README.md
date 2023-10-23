@@ -4,7 +4,7 @@
 
 > url1: js/sixyin-music-source-v1.0.7.js
 > 
-> 下载地址：http://s8u.cn/Z1u7Q
+> 下载地址：http://s8u.cn/TCSBB
 
 ######（注意事项：不要用脚本批量下载，有 IP 封禁限制）
 
