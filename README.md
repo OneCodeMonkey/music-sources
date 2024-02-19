@@ -12,4 +12,9 @@
 #### 使用方法：
 ![img.png](static/img.png)
 
+#### 贡献：
+[Github: yqsycn](https://github.com/yqsycn) —— 分享源：flower-v1.0.0.js
+
+<br>
+
 #### 感谢这款软件，用了四年多了，希望更好地发展下去❤️
