@@ -5,6 +5,10 @@
 > url1: js/sixyin-music-source-v1.0.7.js
 > 
 > 下载地址：http://s8u.cn/TCSBB
+> 
+> url2: js/flower-v1.0.0.js
+> 
+> 下载地址：https://shorturl.at/syAT2
 
 ######（注意事项：不要用脚本批量下载，有 IP 封禁限制）
 
